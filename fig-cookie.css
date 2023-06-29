@@ -1,0 +1,72 @@
+/* Desktop - 1 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #8A88F6;
+
+
+/* Cookie Clicker */
+
+position: absolute;
+width: 970px;
+height: 97px;
+left: 235px;
+top: 91px;
+
+font-family: 'Summer Pixel Wide 22';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 100px;
+
+color: #FCFBEE;
+
+
+
+/* Wow! It looks like someone has been working hard! Have a cookie. */
+
+position: absolute;
+width: 1052px;
+height: 135px;
+left: 235px;
+top: 247px;
+
+font-family: 'Summer Pixel Wide 22';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 40px;
+
+color: #FCFBEE;
+
+
+
+/* cookie-u_wintersolas_cropped 1 */
+
+position: absolute;
+width: 780px;
+height: 705px;
+left: 330px;
+top: 247px;
+
+background: url(cookie-u_wintersolas_cropped.png);
+
+
+/* Clicks: */
+
+position: absolute;
+width: 194px;
+height: 40px;
+left: 555px;
+top: 932px;
+
+font-family: 'Summer Pixel Wide 22';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 40px;
+/* identical to box height */
+
+color: #FCFBEE;
