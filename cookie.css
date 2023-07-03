@@ -1,5 +1,8 @@
 body {
     background-color: #8A88F6;
+    position: relative;
+    width: 1440px;
+    height: 1024px;
 }
 
 h1 {
@@ -49,7 +52,7 @@ p2 {
     color: #FCFBEE;
 }
 
-img {
+input {
     position: absolute;
     width: 780px;
     height: 705px;
